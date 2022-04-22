@@ -11,7 +11,7 @@ body{
     font-weight:300;
 }
 
-/*dot that if i delete it messes up i dont know why*/
+/*dot that if i delete it messes up i dont know why and dont have time to fix*/
 
 .dot{
     color:white;
@@ -105,10 +105,10 @@ margin-top:50px;
     background-color:#4caf5000;
     color: white;
     padding: 4px 12px 4px 12px;
-    border-top: 1px solid #CCCCCC;
+    border-top: 1px solid white;
     border-right: 1px solid white;
     border-bottom: 1px solid white;
-    border-left: 1px solid #CCCCCC;
+    border-left: 1px solid white;
     
   }
 
@@ -121,5 +121,29 @@ margin-top:50px;
 /* about us section */
 
 #about-us {
-    height:700px
+    height:800px;
+    margin-top:110px;
+}
+#about-us h1{
+color:#252525;
+}
+
+#left-about{
+    padding-top:30px;
+    width:33%;
+    float:left;
+    background-color: violet;
+}
+
+#right-about{
+    padding-top:30px;
+    width:33%;
+    float:right;
+    background-color: blue;
+}
+
+#center-about{
+    width:33%;
+    margin:0 auto;
+    background-color: purple;
 }
