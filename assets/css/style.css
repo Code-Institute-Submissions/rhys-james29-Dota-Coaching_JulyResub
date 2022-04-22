@@ -11,6 +11,12 @@ body{
     font-weight:300;
 }
 
+/*dot that if i delete it messes up i dont know why*/
+
+.dot{
+    color:white;
+    margin-top: 0px;
+}
 
 /* headings and logo*/
 
@@ -96,7 +102,7 @@ margin-top:50px;
 .button {
     font: bold 18px roboto, sans-serif;
     text-decoration: none;
-    background-color:rgba(76, 175, 80, 0.0);
+    background-color:#4caf5000;
     color: white;
     padding: 4px 12px 4px 12px;
     border-top: 1px solid #CCCCCC;
@@ -109,4 +115,11 @@ margin-top:50px;
    .button:hover {
     background-color: green;
     color: white;
+}
+
+
+/* about us section */
+
+#about-us {
+    height:700px
 }
