@@ -239,16 +239,16 @@ footer ul i{
 
 /* faq page*/
 #faq-outer{
-    height:400px;
+    height:500px;
     width:100%;
     overflow; hidden;
     position: relative;
 }
 #faq-hero{
-    background: url('../images/faq-hero.jpg');
+    background: url('../images/girl-gamer.jpg');
     filter:blur(5px);
     margin-top:50px;
-    height:400px;
+    height:500px;
     width:100;
 }
 
@@ -256,11 +256,11 @@ footer ul i{
     text-align:center;
     position: absolute;
     font-size: 32px;
-    top: 45%;
-    color: white;
+    top: 50%;
+    color: #252525;
     font-family: roboto, sans-serif;
     text-transform: uppercase;
-   margin-left:47%;
+    margin-left:47%;
 }
      #questions{
          margin-top:20px;
@@ -270,5 +270,24 @@ footer ul i{
 
      #questions h2{
      margin-top:20px;
+     margin-bottom:10px;
      }
 
+     #question-button {
+        font-family: roboto, sans-serif;
+        text-decoration: none;
+        background-color: white;
+        color: #252525;
+        padding: 4px 12px 4px 12px;
+        border-top: 1px solid #252525;
+        border-right: 1px solid #252525;
+        border-bottom: 1px solid #252525;
+        border-left: 1px solid #252525;
+        font-size:18px;
+        font-weight: bold;
+        
+         }
+
+         #question-button:hover {
+            background-color: green;
+            color: white;
