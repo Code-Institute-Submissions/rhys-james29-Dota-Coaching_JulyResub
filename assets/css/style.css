@@ -292,11 +292,20 @@ footer ul i{
             background-color: green;
             color: white;
          }
+              /* signup section */
+             #signup-outer{
+                height:1000px;
+                width:100%;
+                overflow; hidden;
+                position: relative;
+             }
 
-            #signup-bg{
+
+
+                  #signup-bg{
                 background: url('../images/faq-hero.jpg');
                 filter:blur(5px);
                 margin-top:50px;
                 height:1000px;
-                width:100;
+                width:100%;
             }
