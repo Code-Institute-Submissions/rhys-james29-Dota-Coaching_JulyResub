@@ -341,6 +341,7 @@ footer ul i{
                 border-radius:2px;
                 padding:15px 32px 15px 32px;
                 font-size:100%;
+                margin-left:20px;
                
             }
             .submit-button:hover {
@@ -348,7 +349,8 @@ footer ul i{
             color: white;
             }
 
-            .radio-buttons
-
-            
-           
+            select{
+                text-align:center;
+                margin:15px 32px 15px 32px;
+                padding:5px;
+            }
