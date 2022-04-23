@@ -344,8 +344,8 @@ footer ul i{
                 margin-left:20px;
                
             }
-            .submit-button:hover {
-            border-color: green;
+            .sumbit-button:hover{
+            background-color: green;
             color: white;
             }
 
