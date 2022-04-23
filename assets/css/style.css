@@ -95,31 +95,7 @@ margin-top:50px;
     text-transform: uppercase;
     left:12%;
 }
-#faq-outer{
-    height:400px;
-    width:100%;
-    overflow; hidden;
-    position: relative;
-}
-#faq-hero{
-    background: url('../images/faq-hero.jpg');
-    filter:blur(5px);
-    margin-top:50px;
-    height:400px;
-    width:100;
-}
-
-#faq-text{
-    text-align:center;
-    position: absolute;
-    font-size: 32px;
-    top: 45%;
-    color: white;
-    font-family: roboto, sans-serif;
-    text-transform: uppercase;
-   margin-left:47%;
-}
-        
+   
 /* Hero image button */
 
 .button {
@@ -202,9 +178,7 @@ font-size: 32px;
 #pricing{
     margin-top:15px;
     float:left;
-    font-size: 120%;
-    
-    
+    font-size: 120%; 
 }
 #pricing h2{
 margin-left:90%;
@@ -244,7 +218,6 @@ margin-left:90%;
 
 footer{
     height:150px;
-
 }
 
 footer ul {
@@ -262,3 +235,40 @@ footer ul i{
     padding:5%;
     color:#252525;
 }
+
+
+/* faq page*/
+#faq-outer{
+    height:400px;
+    width:100%;
+    overflow; hidden;
+    position: relative;
+}
+#faq-hero{
+    background: url('../images/faq-hero.jpg');
+    filter:blur(5px);
+    margin-top:50px;
+    height:400px;
+    width:100;
+}
+
+#faq-text{
+    text-align:center;
+    position: absolute;
+    font-size: 32px;
+    top: 45%;
+    color: white;
+    font-family: roboto, sans-serif;
+    text-transform: uppercase;
+   margin-left:47%;
+}
+     #questions{
+         margin-top:20px;
+         margin-left:20%;
+         font-family:lato,sans-serif;
+     }
+
+     #questions h2{
+     margin-top:20px;
+     }
+
