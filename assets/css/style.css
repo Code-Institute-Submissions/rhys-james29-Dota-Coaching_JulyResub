@@ -11,7 +11,7 @@ body{
     font-weight:300;
 }
 
-/*dot that if i delete it messes up i dont know why and dont have time to fix*/
+/*dot that if i delete it messes up i dont know why */
 
 .dot{
     color:white;
@@ -74,7 +74,6 @@ body{
 #hero-outer {
     height:600px;
     width:100%;
-    overflow; hidden;
     position: relative;
 }
 #hero-image {
@@ -241,7 +240,6 @@ footer ul i{
 #faq-outer{
     height:500px;
     width:100%;
-    overflow; hidden;
     position: relative;
 }
 #faq-hero{
