@@ -29,41 +29,45 @@
 </ul>
 
 </nav></header><p class="dot">.</p>
-<section >
-    <div class="signup-bg">
-    <form method="POST" action="#" class="signup-form">
+<section class="signup-bg" >
+    <form method="POST" action="#" id="signup-form">
         <h2>Sign up!</h2>
         <label for="uname">Username</label>
-        <input id="uname" name="uname" type="text" required>
+        <input class="text-input" id="uname" name="uname" type="text" required>
         
         <label for="email">Email Address</label>
-        <input id="email" name="email" type="email" required>
+        <input class="text-input" id="email" name="email" type="email" required>
         
         <label for="password">Password</label>
-        <input type="password" id="password" name="password" required>
+        <input class="text-input" type="password" id="password" name="password" required>
 
-        <p>Region</p>  
-        <input type="checkbox" name="region1" value="eu-west"> EU West
-        <input type="checkbox" name="region2" value="eu-east"> EU East
-        <input type="checkbox" name="region3" value="na-west"> NA West
-        <input type="checkbox" name="region4" value="na-east"> NA East
-        <input type="checkbox" name="region5" value="se-asia"> SE Asia
-        <input type="checkbox" name="region6" value="china"> China
-        <input type="checkbox" name="region7" value="russia"> Russia
-
-        <p>Rank</p>  
-        <input type="checkbox" name="rank1" value="herald"> Herald
-        <input type="checkbox" name="rank2" value="guardian"> Guardian
-        <input type="checkbox" name="rank3" value="crusader"> Crusader
-        <input type="checkbox" name="rank4" value="archon"> Archon
-        <input type="checkbox" name="rank5" value="legend"> Legend
-        <input type="checkbox" name="rank6" value="ancient"> Ancient
-        <input type="checkbox" name="rank7" value="divine"> Divine
-        <input type="checkbox" name="rank8" value="immortal"> Immortal
+        <label for="region">Region</label>
+        <select name="regions" id="region">
+          <option value="region1">EU West</option>
+          <option value="region2">EU East</option>
+          <option value="region3">NA West</option>
+          <option value="region4">NA East</option>
+          <option value="region5">SE Asia</option>
+          <option value="region6">W Asia</option>
+          <option value="region7">Russia</option>
+          <option value="region8">China</option>
+          <option value="region9">South America</option>
+        </select>
+        <label for="rank">Rank</label>
+        <select name="ranks" id="rank">
+          <option value="rank1">Herald</option>
+          <option value="rank2">Guardian</option>
+          <option value="rank3">Crusader</option>
+          <option value="rank4">Archon</option>
+          <option value="rank5">Legend</option>
+          <option value="rank6">Ancient</option>
+          <option value="rank7">Divine</option>
+          <option value="rank8">Immortal</option>
+        </select>
     
         
-        <input class="join-button" type="submit" value="Submit!">
-    </form></div>
+        <input class="sumbit-button" type="submit" value="Submit!">
+    </form>
 </section>
 
    
