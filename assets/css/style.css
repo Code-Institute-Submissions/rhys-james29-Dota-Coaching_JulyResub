@@ -356,7 +356,7 @@ footer ul i{
 
             /* media queries which dont work *//
 
-            @media screen and (maxwidth:1200px){
+            @media screen and (maxwidth:1200px;){
 
                 .signup-bg{
                     width:500px;
@@ -367,6 +367,16 @@ footer ul i{
                     width:500px;
                     height:1200px;
 
+                }
+            }
+
+            @media screen and (maxwidth:950px){
+                #menu{
+                    clear:left;
+                    float:left;
+                    margin-left: 30px;
+                    margin-bottom:20px;
+                    line-height: 25px;
                 }
             }
 
