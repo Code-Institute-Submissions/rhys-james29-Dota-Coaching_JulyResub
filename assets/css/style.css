@@ -352,3 +352,22 @@ footer ul i{
                 margin:15px 32px 15px 32px;
                 padding:5px;
             }
+
+
+            /* media queries which dont work *//
+
+            @media screen and (maxwidth:1200px){
+
+                .signup-bg{
+                    width:500px;
+                    height:1200px;
+
+                }
+                #signup-form{
+                    width:500px;
+                    height:1200px;
+
+                }
+            }
+
+          
