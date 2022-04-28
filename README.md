@@ -88,7 +88,9 @@ About us section
     
     I had issues with making the website responsive to different size screen and with a lack of remaining time couldnt implement this successfully.
     
-    
+<h2>Bugs<h2> 
+  
+  A dot in line 35 that i cant get rid of
     
     
   <h2>Validator testing<h2>
