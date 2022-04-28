@@ -354,9 +354,9 @@ footer ul i{
             }
 
 
-            /* media queries which dont work *//
+            /* media queries which dont work */
 
-            @media screen and (maxwidth:1200px;){
+            @media screen and (maxwidth:1200px){
 
                 .signup-bg{
                     width:500px;
@@ -379,5 +379,10 @@ footer ul i{
                     line-height: 25px;
                 }
             }
+
+
+            /* bug fixing */
+
+           
 
           
