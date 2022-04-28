@@ -1,4 +1,4 @@
-<h1>Dota Coaching</h1>
+#Dota Coaching
 The Dota Coaching Website is a landing page for people looking for coachoing on the video game Dota 2.It offers courses of coaching for people who play the game.
 
 Users who visit this website will find information about the coaching and what is offered, prices and different packages, an FAQ section, links to social media and a page to sign up for coaching/more information.
@@ -6,7 +6,7 @@ Users who visit this website will find information about the coaching and what i
 ![responsive](https://user-images.githubusercontent.com/101735130/165658635-6a9e5b36-ddf8-44e0-ba98-e58b6cd64ffd.JPG)
 
 
-<h2>Features<h2>
+##Features
   
     Nav Bar
     At the top of the page, the coaching service name is displayed top left and links back to the main page.
@@ -78,7 +78,7 @@ About us section
   ![signup](https://user-images.githubusercontent.com/101735130/165661042-59347519-0ff5-49fd-bf01-691bd13a9c96.JPG)
   
   
-  <h2> Testing <h2>
+  ##Testing
     
     I have tested it works on various browsers including Chrome, safari, firefox and microsoft bing.
     
@@ -88,12 +88,12 @@ About us section
     
     I had issues with making the website responsive to different size screen and with a lack of remaining time couldnt implement this successfully.
     
-<h2>Bugs<h2> 
+##Bugs
   
   A dot in line 35 that i cant get rid of
     
     
-  <h2>Validator testing<h2>
+  ##Validator testing
       
       
      HTML
@@ -112,7 +112,7 @@ About us section
 
   ![lighthouse score](https://user-images.githubusercontent.com/101735130/165665258-ec8a1450-71d1-44d0-b6f0-4a4462ce10eb.JPG)
 
- <h2>Deployment<h2>
+##Deployment
     
     The site was deployed to github pages. The steps to deploy are as follows.
     In the github repository navigate to the settings tab.
@@ -124,13 +124,13 @@ About us section
     
     
     
- <h1>Credits<h1>
+ #Credits
       
-  <h2>Content<h2>
+  ##Content
         
         Code to make socials links and Nav bar from Love running project.
       
-  <h2>Media<h2>
+  ##Media
           
           All images taken from Pexel.
       
