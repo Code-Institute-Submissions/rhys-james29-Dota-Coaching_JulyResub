@@ -40,8 +40,8 @@ About us section
   
   The about us section is valuable as it provides some information about the services/company. 
   
-  ![about us](https://user-images.githubusercontent.com/101735130/165660133-8bfc0aff-154c-4870-a3ca-d1dafc6caeeb.JPG)
-  
+  ![about us new](https://user-images.githubusercontent.com/101735130/165665301-26b6ea95-739a-4402-bb06-1eeb8202715d.JPG)
+
   
   Socials links
   
@@ -91,10 +91,48 @@ About us section
     
     
     
-    <h2>Validator testing<h2>
+  <h2>Validator testing<h2>
+      
+      
+     HTML
+      
+      No errors found when passed through the official W3C validator.
+      
+     CSS
+      
+      No errors found when passed through the official (jigsaw) validator.
+      
+      Accessibility
+      
+      All information/text contrasts nicely and is easily read.
+      
+      
 
-  
-  
+  ![lighthouse score](https://user-images.githubusercontent.com/101735130/165665258-ec8a1450-71d1-44d0-b6f0-4a4462ce10eb.JPG)
+
+ <h2>Deployment<h2>
+    
+    The site was deployed to github pages. The steps to deploy are as follows.
+    In the github repository navigate to the settings tab.
+    From the source section dropdown menu select the master branch.
+    once selected the page provided the link to the completed website.
+    
+    Live link is https://rhys-james29.github.io/Dota-Coaching/
+    
+    
+    
+    
+ <h1>Credits<h1>
+      
+  <h2>Content<h2>
+        
+        Code to make socials links and Nav bar from Love running project.
+      
+  <h2>Media<h2>
+          
+          All images taken from Pexel.
+      
+      
   
   
   
