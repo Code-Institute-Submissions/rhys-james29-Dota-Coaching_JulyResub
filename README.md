@@ -3,3 +3,114 @@ The Dota Coaching Website is a landing page for people looking for coachoing on 
 
 Users who visit this website will find information about the coaching and what is offered, prices and different packages, an FAQ section, links to social media and a page to sign up for coaching/more information.
 
+![responsive](https://user-images.githubusercontent.com/101735130/165658635-6a9e5b36-ddf8-44e0-ba98-e58b6cd64ffd.JPG)
+
+
+<h2>Features<h2>
+  
+    Nav Bar
+    At the top of the page, the coaching service name is displayed top left and links back to the main page.
+    
+    The other nav links are in the top right and take you to separate pages, one for FAQ and one for a signup page, the page your on is underlined.
+    
+    The Nav bar is valuable as it allows easy navigation around the website.
+  
+    Its simple and uses clear contrasting colours.
+  ![nav bar](https://user-images.githubusercontent.com/101735130/165659446-65907f8b-9e2f-41f4-9f80-94f6150e4afc.JPG)
+
+  
+  
+    Hero Image
+  
+    Blurred stock image of a keyboard with centred contrasting text.
+  
+    Button which takes you to signup page when clicked, button also changed background colour to green when hovered.
+  
+    The hero images are valuable as they are visuably appealing.
+  
+![hero image](https://user-images.githubusercontent.com/101735130/165659717-33a0048e-f9d4-4326-b8c9-9e738961aff4.JPG)
+
+      
+About us section
+  
+  
+  General infromation about the coaching services with accompanying stock image of gamer.
+  
+  Simply styled table shwoing prices of subscriptions.
+  
+  The about us section is valuable as it provides some information about the services/company. 
+  
+  ![about us](https://user-images.githubusercontent.com/101735130/165660133-8bfc0aff-154c-4870-a3ca-d1dafc6caeeb.JPG)
+  
+  
+  Socials links
+  
+  All pages include 5 socials links with appropriate icon.
+  
+  The socials links are valuable as they link to other ways of accessing the company/product.
+
+  ![socials](https://user-images.githubusercontent.com/101735130/165660280-8b3b2e90-b065-4346-9991-621b5394d3d4.JPG)
+  
+  
+  FAQ page
+  
+  Another blurred hero image of stock gaming photo, includes short list of questions and another button which links to signup page.
+  
+  The FAQ page is valuable as it answers any common questions about the product/company.
+
+  
+  ![FAQ](https://user-images.githubusercontent.com/101735130/165660537-46761a59-7829-4b39-b999-775e2d5c6659.JPG)
+  
+  
+  Sign up page
+  
+  Stock background image of gaming equipment.
+  
+  Signup form with 3 text inputs, one for username, email and password.
+  
+  2 dropdown select boxes and 2 radio buttons.
+  
+  A submit button which changes when hovered.
+  
+  The signup page is valuable as it allows the user to sign up to the coaching service with a lot of information.
+
+  
+  ![signup](https://user-images.githubusercontent.com/101735130/165661042-59347519-0ff5-49fd-bf01-691bd13a9c96.JPG)
+  
+  
+  <h2> Testing <h2>
+    
+    I have tested it works on various browsers including Chrome, safari, firefox and microsoft bing.
+    
+    I have confirmed all text and important information is contrasting and easy to read.
+    
+    I have confirmed the form works all key fields are required.
+    
+    I had issues with making the website responsive to different size screen and with a lack of remaining time couldnt implement this successfully.
+    
+    
+    
+    
+    <h2>Validator testing<h2>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
