@@ -39,6 +39,8 @@ About us section
   Simply styled table showing prices of various subscription levels and there differences.
   
   The about us section is valuable as it provides some information about the product/company. 
+
+  The image of a man gaming is intentionally removed on smaller screens.
   
   ![about us new](https://user-images.githubusercontent.com/101735130/165665301-26b6ea95-739a-4402-bb06-1eeb8202715d.JPG)
 
@@ -92,7 +94,10 @@ About us section
     
 ##Bugs
   
-  A dot in line 35 that i cant get rid of
+  A dot in line 35 that i cant get rid of, if removed ruins whole page.
+  sometimes on smaller devices it can have the hero image and text to the right however not often.
+    The image of a man gaming is intentionally removed on smaller screens, this is not a bug however may be seen as one, just to clarify it isnt supposed to be there on smaller screens.
+
     
     
   ##Validator testing
